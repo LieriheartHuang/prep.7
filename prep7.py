@@ -1,4 +1,4 @@
-a=input("Drink Size:\n")
+a=input('Drink Size:\n')
 b=input('Drink type:\n')
 if a='large':
       if b='regular':
