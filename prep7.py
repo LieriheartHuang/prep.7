@@ -1,5 +1,6 @@
 a=input('Drink Size:\n')
 b=input('Drink type:\n')
+print(' ')
 if a=='large':
       if b=='regular':
             print('300 calories')
